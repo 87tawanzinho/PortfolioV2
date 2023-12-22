@@ -1,6 +1,6 @@
 export default function SectionTwo() {
   return (
-    <div className="h-max bg-black text-white flex flex-col justify-center items-center gap-8 p-10 text-gray-200">
+    <div className="sm:h-max lg:h-screen bg-black text-white flex flex-col justify-center items-center gap-8 p-10 text-gray-200">
       <p className="sm: text-3xl lg:text-7xl mt-10 text-yellow-500 font-bold">
         Minha História
       </p>
