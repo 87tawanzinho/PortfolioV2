@@ -52,17 +52,6 @@ export default function SectionThree() {
             </button>
           </Link>
         </div>
-
-        <div className="cursor-pointer">
-          <Link
-            href="https://tawanzinh9.github.io/WEBSITE-ZELDA-PC/"
-            target="_blank"
-          >
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Zelda
-            </button>
-          </Link>
-        </div>
       </div>
     </div>
   );
