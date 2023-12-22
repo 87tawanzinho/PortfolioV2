@@ -29,11 +29,17 @@ body {
 
 .textShadow {
   z-index: 1;
-  text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5);
+  text-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
 }
 
 .hoverwhatsapp:hover {
   transition: 0.4s ease-in-out;
   background: rgb(72, 72, 73);
   color: white;
+}
+
+.bg-three {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://images.unsplash.com/photo-1703126806617-fc8fd6f3648c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
