@@ -28,7 +28,13 @@ export default function SectionThree() {
             </button>
           </Link>
         </div>
-
+        <div className="cursor-pointer">
+          <Link href="https://e-commerce-sepia-theta.vercel.app/" target="_blank">
+            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
+              E-commerce 
+            </button>
+          </Link>
+        </div>
         <div className="cursor-pointer">
           <Link href="https://87tawan.github.io/Hamburgueria/" target="_blank">
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
