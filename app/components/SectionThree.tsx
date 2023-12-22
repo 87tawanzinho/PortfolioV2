@@ -58,6 +58,14 @@ export default function SectionThree() {
             </button>
           </Link>
         </div>
+
+        <div className="cursor-pointer">
+          <Link href="https://dynamic-form-iota-bay.vercel.app/" target="_blank">
+            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
+              Dynamic Form
+            </button>
+          </Link>
+        </div>
       </div>
     </div>
   );
