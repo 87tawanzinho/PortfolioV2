@@ -29,9 +29,12 @@ export default function SectionThree() {
           </Link>
         </div>
         <div className="cursor-pointer">
-          <Link href="https://e-commerce-sepia-theta.vercel.app/" target="_blank">
+          <Link
+            href="https://e-commerce-sepia-theta.vercel.app/"
+            target="_blank"
+          >
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              E-commerce 
+              E-commerce
             </button>
           </Link>
         </div>
@@ -60,9 +63,20 @@ export default function SectionThree() {
         </div>
 
         <div className="cursor-pointer">
-          <Link href="https://dynamic-form-iota-bay.vercel.app/" target="_blank">
+          <Link
+            href="https://dynamic-form-iota-bay.vercel.app/"
+            target="_blank"
+          >
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
               Dynamic Form
+            </button>
+          </Link>
+        </div>
+
+        <div className="cursor-pointer">
+          <Link href="https://logitech-puce.vercel.app/" target="_blank">
+            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
+              Logitech G-PRO
             </button>
           </Link>
         </div>
