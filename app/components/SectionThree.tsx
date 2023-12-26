@@ -22,6 +22,14 @@ export default function SectionThree() {
         </div>
 
         <div className="cursor-pointer">
+          <Link href="https://windows-peach.vercel.app/" target="_blank">
+            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400 ">
+              Windows 10
+            </button>
+          </Link>
+        </div>
+
+        <div className="cursor-pointer">
           <Link href="https://workout-inky-delta.vercel.app/" target="_blank">
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
               Rotina
