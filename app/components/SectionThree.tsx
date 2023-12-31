@@ -37,19 +37,16 @@ export default function SectionThree() {
           </Link>
         </div>
         <div className="cursor-pointer">
-          <Link
-            href="https://e-commerce-sepia-theta.vercel.app/"
-            target="_blank"
-          >
+          <Link href="https://desafio-school.vercel.app/" target="_blank">
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              E-commerce
+              Notas Escolares
             </button>
           </Link>
         </div>
         <div className="cursor-pointer">
           <Link href="https://desafio-kavak.vercel.app/" target="_blank">
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Desafio Next
+              Kavak
             </button>
           </Link>
         </div>
@@ -66,17 +63,6 @@ export default function SectionThree() {
           <Link href="https://camping-ruddy.vercel.app/" target="_blank">
             <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
               Camping
-            </button>
-          </Link>
-        </div>
-
-        <div className="cursor-pointer">
-          <Link
-            href="https://dynamic-form-iota-bay.vercel.app/"
-            target="_blank"
-          >
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Dynamic Form
             </button>
           </Link>
         </div>
