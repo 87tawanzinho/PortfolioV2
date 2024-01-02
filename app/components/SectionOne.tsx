@@ -42,8 +42,8 @@ export default function SectionOne() {
         </Link>
 
         <Link href="https://wa.me/5575981975144" target="_blank">
-          <button className="w-48 bg-green-400 rounded-2xl p-2 mt-10 flex justify-center  gap-2 items-center hoverwhatsapp">
-            <p className="text-gray-800 font-bold ">WhatsApp</p>
+          <button className="w-[150px]  gap-5 bg-zinc-800 mt-10 h-[50px] my-3 flex items-center justify-center rounded-xl cursor-pointer relative overflow-hidden transition-all duration-500 ease-in-out shadow-md hover:scale-105 hover:shadow-lg before:absolute before:top-0 before:-left-full before:w-full before:h-full before:bg-gradient-to-r before:from-[#009b49] before:to-[rgb(105,184,141)] before:transition-all before:duration-500 before:ease-in-out before:z-[-1] before:rounded-xl hover:before:left-0 text-[#fff]">
+            <p className="text-white font-bold ">WhatsApp</p>
             <Image src={wpp} alt="wpp" className="h-6 w-6" />
           </button>
         </Link>
