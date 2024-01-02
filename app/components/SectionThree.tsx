@@ -15,63 +15,47 @@ export default function SectionThree() {
             href="https://blog-front-seven-lake.vercel.app/"
             target="_blank"
           >
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400 ">
-              Blog Pessoal
-            </button>
+            <button className="button-6 ">Blog Pessoal</button>
           </Link>
         </div>
 
         <div className="cursor-pointer">
           <Link href="https://windows-peach.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400 ">
-              Windows 10
-            </button>
+            <button className="button-6 ">Windows 10</button>
           </Link>
         </div>
 
         <div className="cursor-pointer">
           <Link href="https://workout-inky-delta.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Rotina
-            </button>
+            <button className="button-6">Rotina</button>
           </Link>
         </div>
         <div className="cursor-pointer">
           <Link href="https://desafio-school.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Notas Escolares
-            </button>
+            <button className="button-6">Notas Escolares</button>
           </Link>
         </div>
         <div className="cursor-pointer">
           <Link href="https://desafio-kavak.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Kavak
-            </button>
+            <button className="button-6">Kavak</button>
           </Link>
         </div>
 
         <div className="cursor-pointer">
           <Link href="https://tawanzinh9.github.io/lalaa/#/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Tartooga
-            </button>
+            <button className="button-6">Tartooga</button>
           </Link>
         </div>
 
         <div className="cursor-pointer">
           <Link href="https://camping-ruddy.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Camping
-            </button>
+            <button className="button-6">Camping</button>
           </Link>
         </div>
 
         <div className="cursor-pointer">
           <Link href="https://logitech-puce.vercel.app/" target="_blank">
-            <button className="bg-purple-400 rounded w-32 h-10 font-bold transition-all hover:bg-green-400">
-              Logitech G-PRO
-            </button>
+            <button className="button-6">Logitech G-PRO</button>
           </Link>
         </div>
       </div>
