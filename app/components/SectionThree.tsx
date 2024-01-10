@@ -25,6 +25,12 @@ export default function SectionThree() {
           </Link>
         </div>
 
+         <div className="cursor-pointer">
+          <Link href="https://photo-album-iota.vercel.app/" target="_blank">
+            <button className="button-6">Album Universal</button>
+          </Link>
+        </div>
+
         <div className="cursor-pointer">
           <Link href="https://workout-inky-delta.vercel.app/" target="_blank">
             <button className="button-6">Rotina</button>
